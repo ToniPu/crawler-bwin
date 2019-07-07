@@ -1,0 +1,15 @@
+{
+  "name": "bwin-crawler",
+  "version": "0.0.1",
+  "description": "crawle para apostas bwin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toni pumar",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^5.10.3",
+    "puppeteer": "^1.17.0"
+  }
+}
